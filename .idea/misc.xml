@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AV/HK_122/BaiKT3/app/src/main/res/layout/activity_han_quoc.xml" value="0.1956521739130435" />
+        <entry key="..\:/AV/HK_122/BaiKT3/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AV/HK_122/BaiKT3/app/src/main/res/layout/activity_nga.xml" value="0.1956521739130435" />
+        <entry key="..\:/AV/HK_122/BaiKT3/app/src/main/res/layout/activity_phap.xml" value="0.1956521739130435" />
+        <entry key="..\:/AV/HK_122/BaiKT3/app/src/main/res/layout/activity_thai_lan.xml" value="0.1956521739130435" />
+        <entry key="..\:/AV/HK_122/BaiKT3/app/src/main/res/layout/activity_trung_quoc.xml" value="0.1956521739130435" />
+        <entry key="..\:/AV/HK_122/BaiKT3/app/src/main/res/layout/activity_viet_nam.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
